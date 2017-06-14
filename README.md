@@ -1,11 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
+This app is essentially a forum in which users are able to post tech related articles. They are able to create a new account with a login and password from whcih they post article URLs and review posts made by others. 
+* Ruby version - 2.4.1
 
 * System dependencies
 
